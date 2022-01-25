@@ -30,9 +30,28 @@
 | <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad0Awais&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Awais's github stats" /></a> | <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0Awais&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a Data scientist with 2+ years of experience in designing Python applications, ML models, and data analytical applications.
+
+I am currently working part time in [Tatneft](tatneft) as a specialist, mostly I work on data analytical applications, writing algorithms. I recently learnt PowerBI. 
+  
+I participate in extracurricular activities for my leasure time, I recently learnt drawing, how to write down markdown files etc.
+
+### Awards and Achievements
+- AR/VR 2020 Hackathon 3rd position
+- Innopolis Happiness Index Hackathon 2021 1st position
+- Art Therapy Hackathon 2021 2nd Position
+- Case in toold International Hackathon 2nd Postition
+- Oil Tech Challange International Hackathon 2021 - Got Reccommendation letter
+</details> 
+
 
 [paper]: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC
 [university]: https://innopolis.university/en/
 [twitter]: https://twitter.com/Awais_Ch_M
 [instagram]: https://instagram.com/owaischaudharyy
 [linkedin]: https://linkedin.com/in/ch-muhammad-awais-9b094380
+[tatneft]: https://www.tatneft.ru/?lang=en
