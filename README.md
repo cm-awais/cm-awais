@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Awais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Awais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Awais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Awais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](twitter)
+[<img align="left" alt="Awais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](linkedin)
+[<img align="left" alt="Awais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](instagram)
 
 <br />
 
@@ -45,3 +45,10 @@
   <img align="left" alt="Awais's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Muhammad0Awais&show_icons=true&hide_border=true" />
 
 </details>
+
+
+[paper]: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC
+[university]: https://innopolis.university/en/
+[twitter]: https://twitter.com/Awais_Ch_M
+[instagram]: https://instagram.com/owaischaudharyy
+[linkedin]: https://linkedin.com/in/ch-muhammad-awais-9b094380
