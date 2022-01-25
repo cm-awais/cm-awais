@@ -25,11 +25,6 @@
 <br />
 <br />
 
-
-
-| <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad0Awais&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Awais's github stats" /></a> | <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0Awais&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -47,6 +42,11 @@ I participate in extracurricular activities for my leasure time, I recently lear
 - Case in toold International Hackathon 2nd Postition
 - Oil Tech Challange International Hackathon 2021 - Got Reccommendation letter
 </details> 
+
+
+
+| <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad0Awais&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Awais's github stats" /></a> | <a href="https://github.com/Muhammad0Awais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0Awais&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 [paper]: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC
