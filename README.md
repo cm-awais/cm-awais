@@ -3,7 +3,7 @@
 ## I am a programmer, data scientist, and problem solver
 
 - 🔭 I’m currently working on analyzing the relationship between [data augmnetations and Hyper-parameters](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC) 
-- 🌱 I’m currently learning ML, about to finish my Masters' in Data science at [Innopolis University](university)
+- 🌱 I’m currently learning ML, about to finish my Masters' in Data science at [Innopolis University](https://innopolis.university/en/)
 - 👯 I’m looking to collaborate and do some Kaggle competitions.
 - 🥅 I like to work on Data analysis, data wrangling, ML models and computer vision projects.
 - ⚡ Fun fact: I love to draw and currently learning drawing.
@@ -32,7 +32,7 @@
 
 I am a Data scientist with 2+ years of experience in designing Python applications, ML models, and data analytical applications.
 
-I am currently working part time in [Tatneft](tatneft) as a specialist, mostly I work on data analytical applications, writing algorithms. I recently learnt PowerBI. 
+I am currently working part time in [Tatneft](https://www.tatneft.ru/?lang=en) as a specialist, mostly I work on data analytical applications, writing algorithms. I recently learnt PowerBI. 
   
 I participate in extracurricular activities for my leasure time, I recently learnt drawing, how to write down markdown files etc.
 
