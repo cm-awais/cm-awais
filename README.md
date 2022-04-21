@@ -42,6 +42,7 @@ I participate in extracurricular activities for my leasure time, I recently lear
 - Art Therapy Hackathon 2021 2nd Position
 - Case in toold International Hackathon 2nd Postition
 - Oil Tech Challange International Hackathon 2021 - Got Reccommendation letter
+- LingvoHack 2022 2nd position
 
 
 
