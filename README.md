@@ -3,10 +3,10 @@
 ## I am a programmer, data scientist, and problem solver
 
 - 🔭 I’m currently working on analyzing the relationship between [data augmnetations and Hyper-parameters](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC) 
-- 🌱 I’m currently exploring [ML](https://github.com/Muhammad0Awais/MachineLearningProjects), about to finish my Masters' in Data science at [Innopolis University](https://innopolis.university/en/)
+- 🌱 I’m currently exploring [ML](https://github.com/Muhammad0Awais/MachineLearningProjects), finished my Masters' in Data science at [Innopolis University](https://innopolis.university/en/)
 - 👯 I’m looking to collaborate and do some Kaggle competitions.
 - 🥅 I like to work on Data analysis, data wrangling, ML models and computer vision projects.
-- ⚡ Fun fact: I love to draw and currently learning drawing.
+- ⚡ Fun fact: I am learning how to play football.
 
 ### Connect with me:
 
