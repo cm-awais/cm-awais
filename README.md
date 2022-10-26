@@ -32,9 +32,9 @@
 
 I am a Data scientist with 3+ years of experience in designing Python applications, ML models, and data analytical applications.
 
-I am currently working part time in [Tatneft](https://www.tatneft.ru/?lang=en) as a specialist, mostly I work on data analytical applications, writing algorithms. I recently learnt PowerBI. 
+I am currently working part time in [Innopolis University](https://innopolis.university/en/) as a researcher, where I am performing a research on loss functions of deep neural networks. 
   
-I participate in extracurricular activities for my leasure time, I recently learnt drawing, how to write down markdown files etc.
+I participate in extracurricular activities for my leasure time.
 
 ### Awards and Achievements
 - AR/VR 2020 Hackathon 3rd position
