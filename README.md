@@ -30,7 +30,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Data scientist with 2+ years of experience in designing Python applications, ML models, and data analytical applications.
+I am a Data scientist with 3+ years of experience in designing Python applications, ML models, and data analytical applications.
 
 I am currently working part time in [Tatneft](https://www.tatneft.ru/?lang=en) as a specialist, mostly I work on data analytical applications, writing algorithms. I recently learnt PowerBI. 
   
