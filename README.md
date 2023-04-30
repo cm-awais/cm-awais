@@ -31,8 +31,6 @@
   <br/>
 
 I am a Data scientist with 3+ years of experience in designing Python applications, ML models, and data analytical applications.
-
-I am currently working part time in [Innopolis University](https://innopolis.university/en/) as a researcher, where I am performing a research on loss functions of deep neural networks. 
   
 I participate in extracurricular activities for my leasure time.
 
