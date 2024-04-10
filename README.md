@@ -3,7 +3,7 @@
 ## I am a programmer, data scientist, and problem solver
 
 - 🌱 I’m currently exploring Deep learing models for better SAR Ship classification [Loss Functions comparison](https://github.com/cm-awais/loss_fun_SAR), [Transfer-learning effect](https://github.com/cm-awais/transfer-learning-SAR), [Performance Metrics Evaluation](https://github.com/cm-awais/sar_performance_metrics).
-- I had my Masters' in Data science at [Innopolis University](https://innopolis.university/en/), resulted into two publication-> [data augmnetations and Hyper-parameters](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC), [Softwar Defect Prediction meta-analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:qjMakFHDy7sC)
+- I had my Masters' in Data science at [Innopolis University](https://innopolis.university/en/), resulted into two publication-> [data augmnetations and Hyper-parameters](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:u-x6o8ySG0sC), [Software Defect Prediction meta-analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6tT70cEAAAAJ&citation_for_view=6tT70cEAAAAJ:qjMakFHDy7sC)
 - 👯 I’m looking to collaborate and do some Kaggle competitions.
 - 🥅 I like to work on Data analysis, data wrangling, ML models and computer vision projects.
 - ⚡ Fun fact: I am learning how to play football.
